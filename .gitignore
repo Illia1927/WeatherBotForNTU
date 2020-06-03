@@ -1,0 +1,10 @@
+/target/
+/out/
+/log4j.log/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
